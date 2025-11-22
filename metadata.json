@@ -1,0 +1,7 @@
+{
+  "name": "CalorieAI - Smart Tracker",
+  "description": "Intelligent calorie counter with AI food recognition and TDEE deficit calculator.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
